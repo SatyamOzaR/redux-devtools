@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.0.0
+
+### Patch Changes
+
+- Updated dependencies [d54adb76]
+- Updated dependencies [bb9bd907]
+  - @redux-devtools/inspector-monitor@3.1.0
+
 ## 1.0.0
 
 ### Minor Changes
